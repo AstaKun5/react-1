@@ -1,0 +1,19 @@
+
+nav{
+  height: 10Vh;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color:black;
+  font-style:normal;
+  color:wheat;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+body{
+  
+  background-color:rgb(232, 250, 209);
+  color:black;
+  text-align: center;
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
